@@ -15,7 +15,7 @@ An enterprise BI & AI platform connecting **commercial visibility, investment de
 
 [![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=clean)](https://ericwu021.github.io/#case)
 
-*Product demo · Synthetic data · Scripted AI responses.*
+*Product demo · Synthetic data.*
 
 **[Explore Agentic BI →](https://ericwu021.github.io/#case)**
 
@@ -48,6 +48,3 @@ An enterprise BI & AI platform connecting **commercial visibility, investment de
 - **2019–2024:** Data insights, project management and commercial roles, Bayer Consumer Health China.
 - **2014–2019:** Process Control and MES Engineer, Bayer Technology & Engineering Services.
 - **Research:** PhD candidate in Electronics & Information at East China University of Science and Technology, studying governance of AI-driven business intelligence.
-
----
-Personal portfolio. Descriptions reflect my work and perspective.
