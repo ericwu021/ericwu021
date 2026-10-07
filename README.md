@@ -11,11 +11,11 @@ I lead data & AI strategy, investment and delivery for Consumer Health China at 
 
 An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
 
-[![Agentic BI Platform — capabilities and illustrated decision loop](assets/agentic-bi-demo.gif)](https://ericwu021.github.io/#case)
+[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif)](https://ericwu021.github.io/#case)
 
-*Platform overview followed by an illustrative replenishment workflow with synthetic data and scripted AI responses. Production source code is private.*
+*Captured from an isolated copy of the actual platform code, using fictional brands, people, stores and figures. Original report components; no production connections. Source code remains private.*
 
-**[Explore the interactive case study and short film →](https://ericwu021.github.io/#case)**
+**[Explore the actual platform screens and video tour →](https://ericwu021.github.io/#case)**
 
 ### Across the business
 
@@ -29,7 +29,7 @@ An enterprise BI & AI platform connecting **commercial visibility, investment de
 | **Daily store replenishment** | Prioritize store opportunities, assign plans and review execution. |
 | **MCP tools & AI access** | Give authorized AI assistants access to business data and shared metrics, governed by permissions. |
 
-The interactive demo follows daily store replenishment as **one example** of the platform’s broader scope.
+The showcase presents **seven original report views**, including financial steering and MCP access, plus a 56-second screen tour. All displayed data is synthetic.
 
 My contribution spans the roadmap, investment, delivery and adoption of a platform connecting analytics with daily business execution. Its design brings shared metric definitions, identity and access controls into the same environment as AI-assisted decisions.
 
