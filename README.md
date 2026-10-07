@@ -9,13 +9,27 @@ I lead data & AI strategy, investment and delivery for Consumer Health China at 
 
 ## Featured work — Agentic BI Platform
 
-A shared decision environment that connects **business reporting → contextual AI → execution plans → review**.
+An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
 
-[![Agentic BI Platform — illustrated decision loop](assets/agentic-bi-demo.gif)](https://ericwu021.github.io/#case)
+[![Agentic BI Platform — capabilities and illustrated decision loop](assets/agentic-bi-demo.gif)](https://ericwu021.github.io/#case)
 
-*Illustrative walkthrough with synthetic data and scripted AI responses. Production source code is private.*
+*Platform overview followed by an illustrative replenishment workflow with synthetic data and scripted AI responses. Production source code is private.*
 
 **[Explore the interactive case study and short film →](https://ericwu021.github.io/#case)**
+
+### Across the business
+
+| Capability | Business decision it supports |
+| --- | --- |
+| **Product monitoring** | Track product and brand performance across channels. |
+| **Financial steering** | Compare commercial costs, sales and cost ratios to guide investment. |
+| **Digital advertising & O2O** | Steer Meituan in-site search, recommendation and promotion activity. |
+| **Drug traceability** | Understand product flows through shipment, store delivery, offtake and hospital purchases. |
+| **Omnichannel market insights** | Compare market and channel trends to inform business priorities. |
+| **Daily store replenishment** | Prioritize store opportunities, assign plans and review execution. |
+| **MCP tools & AI access** | Give authorized AI assistants access to business data and shared metrics, governed by permissions. |
+
+The interactive demo follows daily store replenishment as **one example** of the platform’s broader scope.
 
 My contribution spans the roadmap, investment, delivery and adoption of a platform connecting analytics with daily business execution. Its design brings shared metric definitions, identity and access controls into the same environment as AI-assisted decisions.
 
