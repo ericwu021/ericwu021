@@ -11,11 +11,13 @@ I lead data & AI strategy, investment and delivery for Consumer Health China at 
 
 An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
 
+**My role:** Product strategy, roadmap, engineering, governance and adoption.
+
 [![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=agentic-bi)](https://ericwu021.github.io/#case)
 
-*Captured from an isolated copy of the actual platform code, using fictional brands, people, stores and figures. Original report components with English demo labels; no production connections. Source code remains private.*
+*Product demo · Synthetic data · Scripted AI responses.*
 
-**[Explore the actual platform screens and video tour →](https://ericwu021.github.io/#case)**
+**[Explore Agentic BI →](https://ericwu021.github.io/#case)**
 
 ### Across the business
 
@@ -29,9 +31,6 @@ An enterprise BI & AI platform connecting **commercial visibility, investment de
 | **Daily store replenishment** | Prioritize store opportunities, assign plans and review execution. |
 | **MCP tools & AI access** | Give authorized AI assistants access to business data and shared metrics, governed by permissions. |
 
-The showcase presents **ten original interface views**, including O2O AI analysis, execution logs and execution-plan AI review, plus a 48-second product film with animated scenes, original music and real interface interactions. All displayed data is synthetic; AI responses are scripted demonstrations.
-
-My contribution spans the roadmap, investment, delivery and adoption of a platform connecting analytics with daily business execution. Its design brings shared metric definitions, identity and access controls into the same environment as AI-assisted decisions.
 
 ## What I bring
 
