@@ -5,8 +5,6 @@ I turn business intelligence into business action.
 
 I lead data & AI strategy, investment and delivery for Consumer Health China at Bayer. My 12+ years across engineering, analytics and commercial roles connect business priorities with hands-on technical execution.
 
-**[Explore my portfolio →](https://ericwu021.github.io)**
-
 ## Featured work — Agentic BI
 
 An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
