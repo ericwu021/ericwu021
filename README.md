@@ -29,7 +29,7 @@ An enterprise BI & AI platform connecting **commercial visibility, investment de
 | **Daily store replenishment** | Prioritize store opportunities, assign plans and review execution. |
 | **MCP tools & AI access** | Give authorized AI assistants access to business data and shared metrics, governed by permissions. |
 
-The showcase presents **seven original report views**, including financial steering and MCP access, plus a 56-second screen tour. All displayed data is synthetic.
+The showcase presents **ten original interface views**, including O2O AI analysis, execution logs and execution-plan AI review, plus a workflow film showing these interactions. All displayed data is synthetic; AI responses are scripted demonstrations.
 
 My contribution spans the roadmap, investment, delivery and adoption of a platform connecting analytics with daily business execution. Its design brings shared metric definitions, identity and access controls into the same environment as AI-assisted decisions.
 
