@@ -1,15 +1,15 @@
 # Eric Wu
-### Data & AI leadership · Business intelligence · Commercial transformation
+### Founder & Product Lead, Agentic BI · Data & AI leadership
 
-I turn business intelligence into business action.
+I conceived, built and lead Agentic BI to turn business intelligence into business action.
 
 I lead data & AI strategy, investment and delivery for Consumer Health China at Bayer. My 12+ years across engineering, analytics and commercial roles connect business priorities with hands-on technical execution.
 
-## Featured work — Agentic BI
+## Agentic BI — Founder & Product Lead
 
 An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
 
-**My role:** Product strategy, roadmap, engineering, governance and adoption.
+I created Agentic BI to rethink how businesses turn data into decisions and daily action. From the initial concept to a working platform, I led product strategy, design, engineering, governance and adoption.
 
 [![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=sample2)](https://ericwu021.github.io/#case)
 
@@ -39,6 +39,8 @@ An enterprise BI & AI platform connecting **commercial visibility, investment de
 | Applied AI | Embed contextual assistance and tool-assisted analysis into business workflows. |
 | Transformation | Connect insight to execution plans, ownership and review. |
 | Technical depth | Work hands-on with TypeScript, Next.js, SQL, Azure and AI tools. |
+
+For data & AI leadership opportunities and product collaboration, [reach out by email](mailto:wzhongxiang@foxmail.com).
 
 ## My path
 
