@@ -3,13 +3,17 @@
 
 I conceived, built and lead Agentic BI to turn business intelligence into business action.
 
-I lead data & AI strategy, investment and delivery for Consumer Health China at Bayer. My 12+ years across engineering, analytics and commercial roles connect business priorities with hands-on technical execution.
+I lead the Consumer Health China data & AI agenda at Bayer, with accountability for data and analytics project costs. I set the strategy and direct delivery across business-unit data teams and IT partners through matrix leadership. My 12+ years across engineering, analytics and commercial roles connect business priorities with hands-on technical execution.
 
 ## Agentic BI — Founder & Product Lead
 
 An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
 
 I created Agentic BI to rethink how businesses turn data into decisions and daily action. From the initial concept to a working platform, I led product strategy, design, engineering, governance and adoption.
+
+The platform changed how teams steer sales and financial performance, manage Meituan operations, track offline execution and scout innovation opportunities through omnichannel analysis—making performance, priorities and execution visible in one environment.
+
+I introduced new retail and product-flow data sources and led the transition from Power BI to a modern web platform. I reduced the approved data and analytics budget while expanding data coverage and AI capability.
 
 [![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=sample2)](https://ericwu021.github.io/#case)
 
