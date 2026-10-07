@@ -13,9 +13,9 @@ An enterprise BI & AI platform connecting **commercial visibility, investment de
 
 **My role:** Product strategy, roadmap, engineering, governance and adoption.
 
-[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=clean)](https://ericwu021.github.io/#case)
+[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=sample2)](https://ericwu021.github.io/#case)
 
-*Product demo · Synthetic data.*
+*Original application with sample data.*
 
 **[Explore Agentic BI →](https://ericwu021.github.io/#case)**
 
