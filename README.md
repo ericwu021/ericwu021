@@ -1,5 +1,5 @@
 # Eric Wu
-### Founder & Product Lead, Agentic BI · Data & AI leadership
+### Data & AI Leader · Founder of Agentic BI
 
 I conceived, built and lead Agentic BI to turn business intelligence into business action.
 
