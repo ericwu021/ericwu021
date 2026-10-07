@@ -7,13 +7,13 @@ I lead data & AI strategy, investment and delivery for Consumer Health China at 
 
 **[Explore my portfolio →](https://ericwu021.github.io)**
 
-## Featured work — Agentic BI Platform
+## Featured work — Our Business in Data - Agentic BI Platform
 
 An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
 
-[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif)](https://ericwu021.github.io/#case)
+[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=en1)](https://ericwu021.github.io/#case)
 
-*Captured from an isolated copy of the actual platform code, using fictional brands, people, stores and figures. Original report components; no production connections. Source code remains private.*
+*Captured from an isolated copy of the actual platform code, using fictional brands, people, stores and figures. Original report components with English demo labels; no production connections. Source code remains private.*
 
 **[Explore the actual platform screens and video tour →](https://ericwu021.github.io/#case)**
 
