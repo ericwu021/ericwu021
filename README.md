@@ -44,7 +44,7 @@ I introduced new retail and product-flow data sources and led the transition fro
 | Transformation | Connect insight to execution plans, ownership and review. |
 | Technical depth | Work hands-on with TypeScript, Next.js, SQL, Azure and AI tools. |
 
-For data & AI leadership opportunities and product collaboration, [reach out by email](mailto:wzhongxiang@foxmail.com).
+For data & AI leadership opportunities and product collaboration, [reach out by email](mailto:ericwu.sh021@gmail.com).
 
 ## My path
 
@@ -53,4 +53,4 @@ For data & AI leadership opportunities and product collaboration, [reach out by 
 - **2014–2019:** Process Control and MES Engineer, Bayer Technology & Engineering Services.
 - **Research:** PhD candidate in Electronics & Information at East China University of Science and Technology, studying governance of AI-driven business intelligence.
 
-<sub>All rights reserved, subject to the exceptions in [Rights and permissions](https://github.com/ericwu021/ericwu021/blob/main/COPYRIGHT.md). For reuse permission, contact [Eric Wu](mailto:wzhongxiang@foxmail.com).</sub>
+<sub>All rights reserved, subject to the exceptions in [Rights and permissions](https://github.com/ericwu021/ericwu021/blob/main/COPYRIGHT.md). For reuse permission, contact [Eric Wu](mailto:ericwu.sh021@gmail.com).</sub>
