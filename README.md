@@ -15,11 +15,11 @@ The platform changed how teams steer sales and financial performance, manage Mei
 
 I introduced new retail and product-flow data sources and led the transition from Power BI to a modern web platform. I reduced the approved data and analytics budget while expanding data coverage and AI capability.
 
-[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=sample2)](https://ericwu021.github.io/#case)
+[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=sample2)](https://ericwu.xyz/enterprise)
 
 *Original application with sample data.*
 
-**[Explore Agentic BI →](https://ericwu021.github.io/#case)**
+**[Explore Enterprise Solutions →](https://ericwu.xyz/enterprise)**
 
 ### Across the business
 
