@@ -1,5 +1,5 @@
 # Eric Wu
-### Data & AI Leader · Founder of Agentic BI
+## Data & AI Leader · Founder of Agentic BI
 
 I conceived, built and lead Agentic BI to turn business intelligence into business action.
 
@@ -17,32 +17,47 @@ I introduced new retail and product-flow data sources and led the transition fro
 
 [![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=sample2)](https://www.ericwu.xyz/enterprise)
 
-*Original application with sample data.*
-
 **[Explore Enterprise Solutions →](https://www.ericwu.xyz/enterprise)**
 
-### Across the business
+## Across the business
 
-| Capability | Business decision it supports |
-| --- | --- |
-| **Product monitoring** | Track product and brand performance across channels. |
-| **Financial steering** | Compare commercial costs, sales and cost ratios to guide investment. |
-| **Digital advertising & O2O** | Steer Meituan in-site search, recommendation and promotion activity. |
-| **Drug traceability** | Understand product flows through shipment, store delivery, offtake and hospital purchases. |
-| **Omnichannel market insights** | Compare market and channel trends to inform business priorities. |
-| **Daily store replenishment** | Prioritize store opportunities, assign plans and review execution. |
-| **MCP tools & AI access** | Give authorized AI assistants access to business data and shared metrics, governed by permissions. |
+- **Product monitoring**<br>
+  Track product and brand performance across channels.
 
+- **Financial steering**<br>
+  Compare commercial costs, sales and cost ratios to guide investment.
+
+- **Digital advertising & O2O**<br>
+  Steer Meituan in-site search, recommendation and promotion activity.
+
+- **Drug traceability**<br>
+  Understand product flows through shipment, store delivery, offtake and hospital purchases.
+
+- **Omnichannel market insights**<br>
+  Compare market and channel trends to inform business priorities.
+
+- **Daily store replenishment**<br>
+  Prioritize store opportunities, assign plans and review execution.
+
+- **MCP tools & AI access**<br>
+  Give authorized AI assistants access to business data and shared metrics, governed by permissions.
 
 ## What I bring
 
-| Leadership focus | How I put it into practice |
-| --- | --- |
-| Data & AI strategy | Connect investment and delivery priorities to commercial decisions. |
-| Governance | Establish shared definitions and governed access for analytics and AI. |
-| Applied AI | Embed contextual assistance and tool-assisted analysis into business workflows. |
-| Transformation | Connect insight to execution plans, ownership and review. |
-| Technical depth | Work hands-on with TypeScript, Next.js, SQL, Azure and AI tools. |
+- **Data & AI strategy**<br>
+  Connect investment and delivery priorities to commercial decisions.
+
+- **Governance**<br>
+  Establish shared definitions and governed access for analytics and AI.
+
+- **Applied AI**<br>
+  Embed contextual assistance and tool-assisted analysis into business workflows.
+
+- **Transformation**<br>
+  Connect insight to execution plans, ownership and review.
+
+- **Technical depth**<br>
+  Work hands-on with TypeScript, Next.js, SQL, Azure and AI tools.
 
 For data & AI leadership opportunities and product collaboration, [reach out by email](mailto:ericwu.sh021@gmail.com).
 
