@@ -7,11 +7,11 @@ I lead the Consumer Health China data & AI agenda at Bayer, with accountability 
 
 ## Agentic BI — Founder & Product Lead
 
-An enterprise BI & AI platform connecting **commercial visibility, investment decisions, digital operations and frontline execution** on a governed data foundation.
+I built Agentic BI to help commercial teams decide where to invest and follow through on those decisions. I lead the product from design and engineering through rollout.
 
-I created Agentic BI to rethink how businesses turn data into decisions and daily action. From the initial concept to a working platform, I led product strategy, design, engineering, governance and adoption.
-
-The platform changed how teams steer sales and financial performance, manage Meituan operations, track offline execution and scout innovation opportunities through omnichannel analysis—making performance, priorities and execution visible in one environment.
+- **Ask SI** lets colleagues ask questions about company data in plain language. They can trace an answer to its sources, and the agent respects each person’s existing access permissions.
+- **Q Page** helps cross-functional teams manage projects such as new product launches. Its AI assistant reads project documents and team discussions to identify decisions and next steps.
+- **Meituan AI work orders** give the channel team proposed actions to accept or decline. The agent compares actual sales and ad spend with its forecasts and uses those findings when proposing the next round of work.
 
 I introduced new retail and product-flow data sources and led the transition from Power BI to a modern web platform. I reduced the approved data and analytics budget while expanding data coverage and AI capability.
 
