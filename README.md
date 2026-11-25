@@ -1,71 +1,39 @@
 # Eric Wu
-## Data & AI Leader · Founder of Agentic BI
 
-I conceived, built and lead Agentic BI to turn business intelligence into business action.
+**Data & AI Leader · Founder of Agentic BI · Shanghai**
 
-I lead the Consumer Health China data & AI agenda at Bayer, with accountability for data and analytics project costs. I set the strategy and direct delivery across business-unit data teams and IT partners through matrix leadership. My 12+ years across engineering, analytics and commercial roles connect business priorities with hands-on technical execution.
+I lead data and AI for Bayer Consumer Health China. I manage the data and analytics budget, set investment priorities and coordinate delivery across business units and IT. Over 12 years at Bayer, I have worked in manufacturing engineering, commercial management and analytics. I build tools for decisions I know firsthand, from allocating brand investment to choosing which stores need attention.
 
-## Agentic BI — Founder & Product Lead
+[Contact me about data and AI leadership or product collaboration](mailto:ericwu.sh021@gmail.com)
 
-I built Agentic BI to help commercial teams decide where to invest and follow through on those decisions. I lead the product from design and engineering through rollout.
+## Agentic BI
 
-- **Ask SI** lets colleagues ask questions about company data in plain language. They can trace an answer to its sources, and the agent respects each person’s existing access permissions.
-- **Q Page** helps cross-functional teams manage projects such as new product launches. Its AI assistant reads project documents and team discussions to identify decisions and next steps.
-- **Meituan AI work orders** give the channel team proposed actions to accept or decline. The agent compares actual sales and ad spend with its forecasts and uses those findings when proposing the next round of work.
+I founded Agentic BI and lead its design, engineering and rollout. I led our BI transition from Excel to Power BI and then to web applications. Today, colleagues use the same metric definitions to review performance, ask questions and plan work in the field.
 
-I introduced new retail and product-flow data sources and led the transition from Power BI to a modern web platform. I reduced the approved data and analytics budget while expanding data coverage and AI capability.
+![Agentic BI product demo with synthetic data](assets/agentic-bi-demo.gif?v=sample2)
 
-[![Agentic BI Platform — original platform interface with synthetic data](assets/agentic-bi-demo.gif?v=sample2)](https://www.ericwu.xyz/enterprise)
+**Commercial and financial decisions.** Finance and commercial teams compare brand investment with shipments, channel sales and retail sell-through. On Meituan, for example, teams review advertising and promotion spend alongside sell-out. Mapping the same products across offline retail, online-to-offline (O2O), traditional e-commerce and social e-commerce helps teams distinguish price changes from volume growth.
 
-**[Explore Enterprise Solutions →](https://www.ericwu.xyz/enterprise)**
+**Retail pharmacy data.** I introduced Meituan listing and stockout data to guide daily replenishment, then brought in drug traceability data to follow products from shipment through store receipt to sell-through.
 
-## Across the business
+### How teams use Super Intelligence (SI)
 
-- **Product monitoring**<br>
-  Track product and brand performance across channels.
+- **Ask SI.** Field and office teams ask questions in plain language and trace the answers to the underlying data. Their existing access permissions apply.
+- **Product innovation.** I designed and built Q, a shared workspace where teams refine product proposals. SI draws on internal data, external research and team discussions to update milestones and link decisions to evidence.
+- **Daily store replenishment.** Field representatives log store plans and actions. The platform compares results with each store’s baseline, and SI uses that feedback to recommend where to focus next.
+- **Meituan O2O operations.** SI proposes work orders for keyword bids and replenishment. Operators accept or decline each order and record why. SI reviews accepted orders daily to refine its recommendations.
 
-- **Financial steering**<br>
-  Compare commercial costs, sales and cost ratios to guide investment.
+[Explore Enterprise Solutions →](https://www.ericwu.xyz/enterprise)
 
-- **Digital advertising & O2O**<br>
-  Steer Meituan in-site search, recommendation and promotion activity.
+## Engineering
 
-- **Drug traceability**<br>
-  Understand product flows through shipment, store delivery, offtake and hospital purchases.
+I build the web interfaces, backend APIs and Model Context Protocol (MCP) tools that SI agents use. My stack includes TypeScript, JavaScript, React, Next.js, Node.js, SQL Server and MySQL. For reporting performance, I use precomputed DuckDB snapshots, Redis caching and cache prewarming.
 
-- **Omnichannel market insights**<br>
-  Compare market and channel trends to inform business priorities.
+## Background
 
-- **Daily store replenishment**<br>
-  Prioritize store opportunities, assign plans and review execution.
-
-- **MCP tools & AI access**<br>
-  Give authorized AI assistants access to business data and shared metrics, governed by permissions.
-
-## What I bring
-
-- **Data & AI strategy**<br>
-  Connect investment and delivery priorities to commercial decisions.
-
-- **Governance**<br>
-  Establish shared definitions and governed access for analytics and AI.
-
-- **Applied AI**<br>
-  Embed contextual assistance and tool-assisted analysis into business workflows.
-
-- **Transformation**<br>
-  Connect insight to execution plans, ownership and review.
-
-- **Technical depth**<br>
-  Work hands-on with TypeScript, Next.js, SQL, Azure and AI tools.
-
-For data & AI leadership opportunities and product collaboration, [reach out by email](mailto:ericwu.sh021@gmail.com).
-
-## My path
-
-- **2024–present:** Sr. Commercial AI Platform Manager, Bayer Consumer Health China.
-- **2019–2024:** Data insights, project management and commercial roles, Bayer Consumer Health China.
-- **2014–2019:** Process Control and MES Engineer, Bayer Technology & Engineering Services.
-- **Research:** PhD candidate in Electronics & Information at East China University of Science and Technology, studying governance of AI-driven business intelligence.
+- **2024–present** · Sr. Commercial AI Platform Manager, Bayer Consumer Health China.
+- **2019–2024** · Data insights and project management at Bayer Consumer Health China, including sales management and national key account responsibilities.
+- **2014–2019** · Process Control and MES Engineer, Bayer Technology & Engineering Services.
+- **Research** · PhD candidate in Electronics & Information at East China University of Science and Technology, studying the governance of AI-driven business intelligence.
 
 <sub>All rights reserved, subject to the exceptions in [Rights and permissions](https://github.com/ericwu021/ericwu021/blob/main/COPYRIGHT.md). For reuse permission, contact [Eric Wu](mailto:ericwu.sh021@gmail.com).</sub>
